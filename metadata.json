@@ -1,0 +1,7 @@
+{
+  "name": "PatternStudio 图案提取提取工具",
+  "description": "利用高级AI将织物照片转换为专业、平整、可直接印刷的无边距模版。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
